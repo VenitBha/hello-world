@@ -1,3 +1,3 @@
 # hello-world
 Test Repository
-THis is an update for my first GitHub branch. 
+This is an update for my Second GitHub branch. 
